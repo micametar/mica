@@ -18,7 +18,7 @@ Install the development version from GitHub:
 
 ```r
 if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes")
-remotes::install_github("anonymous-mica/mica-r")
+remotes::install_github("micametar/mica")
 ```
 
 > **Note:** The Stan engine compiles a C++ model on first install — this takes
